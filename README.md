@@ -11,7 +11,7 @@ existing tree implementations found in a library.
 
 # Methodology Used
 
-This project implements a Binary Search Tree from scratch. The method of interest here is the findSmallestClosetNode method located in the BinaryTreeImp class, which uses InOrder trasversal to search through the BST for the smallest number clossest to the number to find ( long toFind in this case. ).
+This project implements a Binary Search Tree from scratch using c#. The method of interest here is the findSmallestClosetNode method located in the BinaryTreeImp class, which uses InOrder trasversal to search through the BST for the smallest number clossest to the number to find ( long toFind in this case. ).
 
 # Time Complexity of the Algorithm
 
